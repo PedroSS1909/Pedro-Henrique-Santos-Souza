@@ -20,10 +20,9 @@ Projeto desenvolvido para aplicar conceitos de HTML e CSS, criando uma página s
 
 🔹 Resultado: Página responsiva, com navegação clara e estrutura otimizada para ser ponto de partida em futuros projetos web.
 
+repositório: https://github.com/PedroSS1909/https-jvcprojects.netlify.app-
+
 ## 💼 Experiências & Competências
-**Projetos/Acadêmicos**  
-- Sistema de [exemplo] — Desenvolvido em [tecnologia], resolvendo [problema] e gerando [resultado].  
-- Aplicativo de [exemplo] — Criado para [objetivo], utilizando [ferramentas].
 
 **Competências Técnicas:** JavaScript · Python · Git · HTML & CSS · SQL/NoSQL  
 **Competências Comportamentais:** Comunicação · Resolução de Problemas · Trabalho em Equipe
