@@ -24,4 +24,4 @@
 
 ## 🌐 Onde me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/pedro-souza-46757237b
-- **GitHub:** https://github.com/SEU-USUARIO
+- **GitHub:** https://github.com/PedroSS1909
